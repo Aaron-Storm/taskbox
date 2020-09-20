@@ -23,7 +23,7 @@ export function PureInboxScreen({ error }) {
                 <h1 className='title-page'>
                     <span className='title-wrapper'>Taskbox</span>
     
-                </h1>u
+                </h1>
             </nav>
             <Tasklist />
     
